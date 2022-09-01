@@ -2,7 +2,7 @@
 
 int n = array.Length;
 
-int find = 4;
+int find = 28;
 
 int index = 0;
 
